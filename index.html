@@ -19,8 +19,8 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300..800&family=Cormorant+Garamond:ital,wght@1,400;1,500&family=Archivo:wght@300;400;500&family=Space+Mono:wght@400;700&family=Noto+Serif+Telugu:wght@400;600&display=swap" rel="stylesheet" />
-  <script type="module" crossorigin src="./assets/index-BQFTKRDl.js"></script>
-  <link rel="stylesheet" crossorigin href="./assets/index-dCtdv18Y.css">
+  <script type="module" crossorigin src="./assets/index-BGZZ9Ip6.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/index-CUP5Sfiz.css">
 </head>
 <body>
 
@@ -791,6 +791,18 @@
         <a class="world__plan" href="#visit">Plan this day</a>
       </footer>
     </div>
+  </div>
+
+  <!-- the lens: a photograph, opened properly -->
+  <div class="lens" id="lens" hidden role="dialog" aria-modal="true" aria-label="Photograph">
+    <button type="button" class="lens__close" id="lensClose" aria-label="Close">&times;</button>
+    <p class="lens__count" id="lensCount" aria-hidden="true"></p>
+    <div class="lens__frame">
+      <img class="lens__img" id="lensImg" alt="" />
+    </div>
+    <p class="lens__cap" id="lensCap"></p>
+    <button type="button" class="lens__step lens__step--prev" id="lensPrev" aria-label="Previous photograph">&larr;</button>
+    <button type="button" class="lens__step lens__step--next" id="lensNext" aria-label="Next photograph">&rarr;</button>
   </div>
 
 </body>
