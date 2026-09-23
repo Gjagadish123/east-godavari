@@ -1,0 +1,2 @@
+:HL["/east-godavari/_next/static/chunks/0h791w8o0i743.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"061VWPu2lOltvq0BxrH0j"}
