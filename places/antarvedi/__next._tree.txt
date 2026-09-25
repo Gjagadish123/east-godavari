@@ -1,8 +1,8 @@
 :HL["/east-godavari/_next/static/chunks/3rfmi7tjd-ovh.css","style"]
-:HL["/east-godavari/_next/static/chunks/2a25_mwwgdejh.css","style"]
+:HL["/east-godavari/_next/static/chunks/1h5-6ng_vc_gf.css","style"]
 :HL["/east-godavari/_next/static/media/2aa781f449db21e3-s.p.1pg2nifvadz06.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/east-godavari/_next/static/media/75affa71d1e2f6a7-s.p.17-aodiw50953.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/east-godavari/_next/static/media/7e4c185549566362-s.p.0bon5ng9twub1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/east-godavari/_next/static/media/8bd76523131fa0fc-s.p.1pvupmngxrt5z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/east-godavari/_next/static/media/dc0d9adbac686440-s.p.3cik_s2si-ft-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"places","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"antarvedi","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"nXXjJ4FJ6RHiiUJ_3AKML"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"places","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"antarvedi","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"5Z9OFCWsYy8_ZhFUTAM_G"}

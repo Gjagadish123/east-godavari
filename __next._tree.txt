@@ -1,5 +1,5 @@
 :HL["/east-godavari/_next/static/chunks/3rfmi7tjd-ovh.css","style"]
-:HL["/east-godavari/_next/static/chunks/2a25_mwwgdejh.css","style"]
+:HL["/east-godavari/_next/static/chunks/1h5-6ng_vc_gf.css","style"]
 :HL["/east-godavari/_next/static/media/2aa781f449db21e3-s.p.1pg2nifvadz06.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/east-godavari/_next/static/media/75affa71d1e2f6a7-s.p.17-aodiw50953.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/east-godavari/_next/static/media/7e4c185549566362-s.p.0bon5ng9twub1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -9,4 +9,4 @@
 :HL["/east-godavari/img/chapter-rajahmundry-1920.webp","image",{"imageSrcSet":"/east-godavari/img/chapter-rajahmundry-800.webp 800w, /east-godavari/img/chapter-rajahmundry-1200.webp 1200w, /east-godavari/img/chapter-rajahmundry-1920.webp 1920w","imageSizes":"(max-width: 760px) 55vw, 100vw"}]
 :HL["/east-godavari/img/chapter-dowleswaram-1920.webp","image",{"imageSrcSet":"/east-godavari/img/chapter-dowleswaram-800.webp 800w, /east-godavari/img/chapter-dowleswaram-1200.webp 1200w, /east-godavari/img/chapter-dowleswaram-1920.webp 1920w","imageSizes":"(max-width: 760px) 55vw, 100vw"}]
 :HL["/east-godavari/img/chapter-kadiyam-1920.webp","image",{"imageSrcSet":"/east-godavari/img/chapter-kadiyam-800.webp 800w, /east-godavari/img/chapter-kadiyam-1200.webp 1200w, /east-godavari/img/chapter-kadiyam-1920.webp 1920w","imageSizes":"(max-width: 760px) 55vw, 100vw"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4224,"slots":null}}},"staleTime":300,"buildId":"nXXjJ4FJ6RHiiUJ_3AKML"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4224,"slots":null}}},"staleTime":300,"buildId":"5Z9OFCWsYy8_ZhFUTAM_G"}
